@@ -1,11 +1,12 @@
-""""
+"""
 This is my first program.
-I will write a program that outputs "Hello World!"
+It outputs Hello World! to the screen 
+Yoav Cohen - September 2024
 """
 
 
 def main():
-  pass
+    print("hello world")
 
 
 
