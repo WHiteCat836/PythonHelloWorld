@@ -6,7 +6,8 @@ Yoav Cohen - September 2024
 
 
 def main():
-    print("hello world")
+    name: str= "Arc"
+    print("Hello", name, "!")
 
 
 
