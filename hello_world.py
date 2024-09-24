@@ -6,9 +6,8 @@ Yoav Cohen - September 2024
 
 
 def main():
-    name: str= "Arc"
+    name: str= input("Hello! What is your name? ")
     print("Hello", name, "!")
-
 
 
 if __name__ == "__main__":
